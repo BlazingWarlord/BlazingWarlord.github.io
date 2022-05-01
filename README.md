@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[Python](https://github.com/BlazingWarlord/BlazingWarlord.github.io/python/)
+[Python](https://github.com/BlazingWarlord/BlazingWarlord.github.io/python/README.md)
 
 You can use the [editor on GitHub](https://github.com/BlazingWarlord/BlazingWarlord.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
